@@ -1,0 +1,15 @@
+.nav {
+height: 50px;
+padding: 10px;
+background: #000;
+color: #fff;
+
+}
+
+.nav ul {
+display: flex;
+justify-content: center;
+list-style: armenian;
+
+}
+
